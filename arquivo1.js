@@ -1,3 +1,3 @@
-const aluno = {
-    nome: 'Almir Lopes'
+function retornaNome(){
+    return 'almir';
 }
