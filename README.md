@@ -1,6 +1,6 @@
 #Resumo do fluxo e de todas as branchs.
 
-## Main
+## Branch - Main
 Ao criar o repositório, foi gerado a branch master.
 
 Então foi renomeado a branch master
