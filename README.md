@@ -34,9 +34,7 @@ Criada uma nova branch chamada dev a partir de main.
 Utilizado o comando "git checkout dev" para alternar para a branch dev.
 
 
-# Versão final
 
- Gerado Merge entre Main e Dev
 ## DEV
 
 Na branch dev foi deletado o arquivo2.js e criado o arquivo4.js
@@ -78,3 +76,6 @@ em seguida para finalizar o projeto, dado o comando git git tag -a 1.1
 e gerado um push das tags para finalizar o projeto.
 
 
+## Versão final
+
+ Gerado Merge entre Main e Dev
