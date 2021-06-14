@@ -16,3 +16,9 @@ git push - feito para subir as alterações.
 Após merge com as branches dev e temp, foi deletado o arquivo 4 da branch dev e alterado uma linha no arquivo1.js.
 
 Foi gerado um merge entre as branches DEV e MAIN.
+
+Alterado para a branch dev com 'git checkout dev' (na branch temp) e então feito um merge das branches temp e dev com o comando:
+
+git merge --no-ff temp.
+
+Logo está a versão final.
