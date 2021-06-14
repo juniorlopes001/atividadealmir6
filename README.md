@@ -1,6 +1,4 @@
-# atividadealmir6
-
-#TEMP
+# # Branch - TEMP
 
 Na branch temp foi adicionado uma linha nos arquivos (arquivo3.js, arquivo4.js. Criado o arquivo5.js e adicionado uma linha)
 
